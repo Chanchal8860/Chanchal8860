@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi there 👋, I'm Chanchal 
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag047&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag047" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chanchal8860&label=Profile%20views&color=0e75b6&style=flat" alt="Chanchal8860" /> </p>
 <!-- <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300"> -->
 </br>
 
