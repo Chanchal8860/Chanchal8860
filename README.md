@@ -2,7 +2,6 @@
 Hi there 👋, I'm Chanchal 
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chanchal8860&label=Profile%20views&color=0e75b6&style=flat" alt="Chanchal8860" /> </p>
-<!-- <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300"> -->
 </br>
 
 - 🔭 I’m currently working on <strong> Webdev Projects</strong>
@@ -13,16 +12,16 @@ Hi there 👋, I'm Chanchal
 </br>
 
 ## Connect with me:
-[![linkedin](https://img.shields.io/badge/Chanchal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-prajapati-b60588334/)
+<a href="https://www.linkedin.com/in/chanchal-prajapati-b60588334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chanchal" height="30" width="40" /></a>
 
 </br>
 
 ## Languages and Tools:
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" href="https://developer.mozilla.org/en-US/docs/Web/HTML" width="50" title="CSS" alt="CSS"> &nbsp;
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML" alt="HTML"> &nbsp;
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="50" title="WordPress" alt="Wordpress"> &nbsp;
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" alt="JavaScript"> &nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50" alt="figma" > 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chanchal8860&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Chanchal8860" />
